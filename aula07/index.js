@@ -10,8 +10,8 @@ const outraCoisa = (param1, param2, param3) => {
 qualquerCoisa(1, 2)
 outraCoisa(1, 2, 3)*/
 
-//let nome = 'Nath'
-// nome = 'Nathally Souza'
+//let nome = 'Angel'
+// nome = 'AngelicaEgito'
 
  //fetch('https://pokeapi.co/api/v2/pokemon/ditto').then(resposta => console.log(resposta));
  
